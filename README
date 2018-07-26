@@ -1,0 +1,38 @@
+# ArmAFlightpanels
+
+ArmAFP's primary role is supporting the Saitek / Logitech Pro Flight Hardware in ArmA!
+Together, with ArmA 3' Windowed Instrument Navigation Guidance System, WINGS; a
+pilot can use various Pro Flight panels to operate cockpit radio equipment and display an
+array of flight data from the in-game aircraft. Furthermore, this app is also a key emulator.
+
+Using ArmAFP as a general Key Emulator, players can enjoy games such as Flaming Cliffs,
+IL-2, War Thunder, Elite Dangerous or any other game using the legendary saitek panels..!
+Choose to use multiple panels, or individually and configure them for your own experience
+to ensure high flying memories for years to come! Choose ArmAFP for all your panel needs.
+
+WINGS USAGE
+
+Ensure that ArmARedisClient's server service is running, and launch the WINGS Application
+before operating the ArmAFP in 'WINGS' mode. Failure to do so will cause application errors.
+
+GENERAL USAGE
+
+Select 'General Key Emulation' in the Dropdown box, and bind keys to your liking. That's it!
+
+Saitek / Logitech Panels Supported:
+---------------------------------------------
+* PZ55 Switch Panel (KeyEmulator*)
+* PZ70 Multi Panel (KeyEmulator*)
+* TPM (KeyEmulator)
+* PZ69 Radio Panel (KeyEmulator*)
+* BIP Back Lit Information Panel (KeyEmulator**)
+
+*	LCD information can not be shown in key emulator (KeyEmulator) mode (no data from game available)
+**	BIP can be linked to PZ69 (keyemulator), PZ55, PZ70, TPM so that switching changes LEDs.
+
+Tutorial #1 (Key emulation) : https://youtu.be/mgm0JfldgYs
+
+v1.x.x x xxx 2018
+-----------------------------
+Bug fix, edit DCS-BIOS on PZ70 caused error.
+
